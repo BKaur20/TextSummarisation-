@@ -1,0 +1,7 @@
+Why Oxford’s positive COVID vaccine results are puzzling scientists
+
+A highly anticipated COVID-19 vaccine has delivered some encouraging — but head-scratching — results. 
+The vaccine developed by the University of Oxford, UK, and pharmaceutical giant AstraZeneca was found to be, on average, 70% effective in a preliminary analysis of phase III trial data, the developers announced in a press release on 23 November.
+But the analysis found a striking difference in efficacy depending on the amount of vaccine delivered to a participant. 
+A regimen consisting of 2 full doses given a month apart seemed to be just 62% effective. 
+But, surprisingly, participants who received a lower amount of the vaccine in the first dose and then the full amount in the second dose were 90% less likely to develop COVID-19 than were participants in the placebo arm.

@@ -1,0 +1,3 @@
+COVIDView Summary ending on December 19, 2020
+
+A total of 102,132 laboratory-confirmed COVID-19-associated hospitalizations were reported by sites between March 1, 2020, and December 19, 2020. The overall cumulative hospitalization rate was 313.3 per 100,000 population. Overall weekly hospitalization rates reached their highest point at 16.7 per 100,000 during the week ending November 21, 2020 (MMWR Week 47) and have remained elevated but stable since that time. Hospitalization rates for the most recent weeks are likely to change as additional data are reported for those weeks.

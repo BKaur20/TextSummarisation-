@@ -1,0 +1,5 @@
+Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern
+
+The Technical Advisory Group on SARS-CoV-2 Virus Evolution (TAG-VE) is an independent group of experts that periodically monitors and evaluates the evolution of SARS-CoV-2 and assesses if specific mutations and combinations of mutations alter the behaviour of the virus. The TAG-VE was convened on 26 November 2021 to assess the SARS-CoV-2 variant: B.1.1.529.
+
+The B.1.1.529 variant was first reported to WHO from South Africa on 24 November 2021. The epidemiological situation in South Africa has been characterized by three distinct peaks in reported cases, the latest of which was predominantly the Delta variant. In recent weeks, infections have increased steeply, coinciding with the detection of B.1.1.529 variant. The first known confirmed B.1.1.529 infection was from a specimen collected on 9 November 2021.

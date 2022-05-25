@@ -1,0 +1,3 @@
+Effectiveness of a third dose of the BNT162b2 mRNA COVID-19 vaccine for preventing severe outcomes in Israel: an observational study
+
+Many countries are experiencing a resurgence of COVID-19, driven predominantly by the delta (B.1.617.2) variant of SARS-CoV-2. In response, these countries are considering the administration of a third dose of mRNA COVID-19 vaccine as a booster dose to address potential waning immunity over time and reduced effectiveness against the delta variant. We aimed to use the data repositories of Israel's largest health-care organisation to evaluate the effectiveness of a third dose of the BNT162b2 mRNA vaccine for preventing severe COVID-19 outcomes.
